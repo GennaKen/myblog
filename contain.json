@@ -1,0 +1,50 @@
+{
+    "posts": [
+      {
+        "index": 1,
+        "imagePath": "img/post-1.jpg",
+        "category": "Mobile",
+        "categoryClass": "Mobile",
+        "title": "1. Предмет, Объект и Среда",
+        "date": "27 Jan 2024",
+        "smallText": "HTML (HyperText Markup Language) является основой веб-разработки. С его помощью создаются структура и контент веб-страницы.",
+        "profileImagePath": "img/profile-1.jpg",
+        "profileName": "Marques Brown"
+      },
+      {
+        "index": 2,
+        "imagePath": "img/post-2.jpg",
+        "category": "Tech",
+        "categoryClass": "Tech",
+        "title": "2. Природа Ума",
+        "date": "27 Jan 2024",
+        "smallText": "CSS (Cascading Style Sheets) используется для стилизации веб-страниц. Этот язык позволяет определить внешний вид элементов.",
+        "profileImagePath": "img/profile-2.jpg",
+        "profileName": "Marques Brown"
+      },
+      {
+        "index": 3,
+        "imagePath": "img/post-3.jpg",
+        "category": "Mobile",
+        "categoryClass": "Mobile",
+        "title": "3. Настройка Ума",
+        "date": "27 Jan 2024",
+        "smallText": "JavaScript является языком программирования, который делает ваши веб-страницы интерактивными.",
+        "profileImagePath": "img/profile-3.jpg",
+        "profileName": "Marques Brown"
+      },
+      {
+        "index": 4,
+        "imagePath": "img/post-4.jpg",
+        "category": "Design",
+        "categoryClass": "Design",
+        "title": "4. Взаимодействие Личности с Мыслью",
+        "date": "27 Jan 2024",
+        "smallText": "События, такие как клики и наведения мыши, придают вашим веб-проектам интерактивность.",
+        "profileImagePath": "img/profile-1.jpg",
+        "profileName": "Marques Brown"
+      }
+
+    ]
+  }
+  
