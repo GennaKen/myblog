@@ -1,0 +1,27 @@
+{
+	"entries": [
+		{
+			"id": 1,
+			"picture_path": "../img/post-1.jpg",
+			"title": "1. Предмет, Объект и Среда"
+		},
+		{
+			"id": 2,
+			"picture_path": "../img/post-2.jpg",
+			"title": "2. Природа Ума"
+		},
+		{
+			"id": 3,
+			"picture_path": "../img/post-3.jpg",
+			"title": "3. Настройка Ума"
+		},
+		{
+			"id": 4,
+			"picture_path": "../img/post-4.jpg",
+			"title": "4. Взаимодействие Личности с Мыслью"
+		}
+		
+		
+	]
+}
+  
